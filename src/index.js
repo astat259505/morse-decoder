@@ -83,11 +83,11 @@ return arr4.join('')
   
 }
 
-decode(expr)
 
 
 
-module.exports = {
-    decode(expr)
+
+ module.exports = {
+    decode
 }
 
